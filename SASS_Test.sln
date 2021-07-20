@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31423.177
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SASS_Test", "SASS_Test\SASS_Test.csproj", "{99F201C8-7A4B-409E-9132-FFD44AF855AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F201C8-7A4B-409E-9132-FFD44AF855AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F201C8-7A4B-409E-9132-FFD44AF855AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F201C8-7A4B-409E-9132-FFD44AF855AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F201C8-7A4B-409E-9132-FFD44AF855AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0BA2506-B1D0-4B11-8644-26F9EDE5B723}
+	EndGlobalSection
+EndGlobal

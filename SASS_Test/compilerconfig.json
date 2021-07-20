@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "wwwroot/prod/css/theme-light.css",
+    "inputFile": "wwwroot/sass/themes/light/light.scss"
+  },
+  {
+    "outputFile": "wwwroot/prod/css/theme-dark.css",
+    "inputFile": "wwwroot/sass/themes/darlk/dark.scss"
+  }
+]
